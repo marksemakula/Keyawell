@@ -394,6 +394,15 @@ a:focus {
   color: #252525;
 }
 
+@font-face {
+  font-family: 'Cinzel Regular';
+  src: url('fonts/Cinzel-Regular.tff') format('truetype');
+}
+
+h1 {
+  font-family: 'Cinzel Regular', serif;
+}
+
 .slider_section .detail-box h1 {
   font-size: 3rem;
   font-weight: bold;
@@ -402,7 +411,7 @@ a:focus {
 }
 
 .slider_section .detail-box h1 span {
-  color: #00c6a9;
+  color: #274086;
 }
 
 .slider_section .detail-box p {
