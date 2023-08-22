@@ -405,7 +405,7 @@ h1 {
 
 .slider_section .detail-box h1 {
   font-size: 3rem;
-  font-weight: bold;
+  font-weight: lighter;
   text-transform: uppercase;
   margin-bottom: 25px;
 }
