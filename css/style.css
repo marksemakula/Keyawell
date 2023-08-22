@@ -110,6 +110,7 @@ a:focus {
 
 .header_section .header_bottom {
   background-color: #007FFF;
+  font-family: 'Cinzel Regular', serif;
 }
 
 .header_section .header_bottom .container-fluid {
@@ -405,7 +406,7 @@ h1 {
 
 .slider_section .detail-box h1 {
   font-size: 3rem;
-  font-weight: lighter;
+  font-weight: light;
   text-transform: uppercase;
   margin-bottom: 25px;
 }
