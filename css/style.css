@@ -132,10 +132,14 @@ a:focus {
   padding: 0;
 }
 
+.custom_nav-container .navbar-nav .nav-item:first-child .nav-link {
+  margin-right: 70px; /* Adjusted margin-right for the first item */
+}
+
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 3px 15px;
-  margin: 10px 15px 10px 70px; /* Adjusted margin-right */
-  color: #030303;
+  margin-right: 10px; /* Adjusted margin-right */
+  color: #ffffff;
   text-align: center;
   text-transform: uppercase;
 }
