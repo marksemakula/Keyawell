@@ -110,7 +110,8 @@ a:focus {
 
 .header_section .header_bottom {
   background-color: #007FFF;
-  font-family: 'Cinzel Regular', serif;
+  font-family: 'Cinzel', serif;
+  font-weight: light;
 }
 
 .header_section .header_bottom .container-fluid {
@@ -397,7 +398,8 @@ a:focus {
 
 @font-face {
   font-family: 'Cinzel Regular';
-  src: url('fonts/Cinzel-Regular.tff') format('truetype');
+  src: url('fonts/Cinzel-VariableFont_wght.tff') format('truetype');
+  font-weight: 300;
 }
 
 h1 {
@@ -1140,3 +1142,46 @@ h1 {
   color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
+
+h1,
+h2,
+h3 {
+    font-family: 'Lane', 'Gill Sans', 'Gill Sans MT', sans-serif;
+    font-weight: 300;
+    margin: 0;
+}
+h4,
+h5 {
+    font-family: 'Cinzel', Cinzel-Regular;
+    font-weight: 300;
+    margin: 0;
+    line-height: 2rem;
+}
+h1 {
+    font-size: 3rem;
+    font-weight: 300;
+	line-height:inherit;
+}
+h2 {
+    font-size: 2.5rem;
+    margin-bottom: .9rem;
+	line-height:inherit;
+}
+h3 {
+    font-weight: 300;
+    margin-bottom: .9rem;
+    font-size: 2.1rem;
+    line-height: 2.5rem;
+}
+h4 {
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+    margin-bottom: 1.1rem;
+}
+h5 {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+}
+h6 {
+    font-size: 1rem;
+    margin-bottom: .9rem;
