@@ -133,7 +133,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav .nav-item:first-child .nav-link {
-  margin-right: 70px; /* Adjusted margin-right for the first item */
+  margin-right: 90px; /* Adjusted margin-right for the first item */
 }
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
