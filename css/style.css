@@ -48,7 +48,7 @@ body {
 }
 
 .heading_container h2 span {
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .heading_container.heading_center {
@@ -105,11 +105,11 @@ a:focus {
 }
 
 .header_section .header_top .contact_nav a i {
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .header_section .header_bottom {
-  background-color: #007FFF;
+  background-color: #00AEEF;
   font-family: 'Cinzel', serif;
   font-weight: light;
 }
@@ -120,7 +120,7 @@ a:focus {
 }
 
 .navbar-brand {
-  background-color: #007FFF;
+  background-color: #00AEEF;
   padding: 15px 35px;
 }
 
@@ -330,7 +330,7 @@ a:focus {
 }
 
 .slider_section .play_btn button {
-  background-color: #007FFF;
+  background-color: #00AEEF;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -357,7 +357,7 @@ a:focus {
   position: absolute;
   top: 50%;
   left: 50%;
-  background-color: #007FFF;
+  background-color: #00AEEF;
   opacity: 1;
   border-radius: 100%;
   -webkit-transform: translate(-50%, -50%);
@@ -464,7 +464,7 @@ h1 {
   position: unset;
   width: 50px;
   height: 50px;
-  background-color: #007FFF;
+  background-color: #00AEEF;
   opacity: 1;
 }
 
@@ -485,7 +485,7 @@ h1 {
 }
 
 .book_section h4 span {
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .book_section h4::before {
@@ -495,7 +495,7 @@ h1 {
   bottom: 0;
   width: 75px;
   height: 2px;
-  background-color: #007FFF;
+  background-color: #00AEEF;
 }
 
 .book_section form {
@@ -511,7 +511,7 @@ h1 {
 .book_section form .form-control {
   width: 100%;
   background-color: transparent;
-  border: 1px solid #007FFF;
+  border: 1px solid #00AEEF;
   height: 45px;
   outline: none;
   -webkit-box-shadow: none;
@@ -521,27 +521,27 @@ h1 {
 }
 
 .book_section form .form-control::-webkit-input-placeholder {
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .book_section form .form-control:-ms-input-placeholder {
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .book_section form .form-control::-ms-input-placeholder {
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .book_section form .form-control::placeholder {
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .book_section form #inputDate {
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .book_section form #inputDate input {
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .book_section form button.btn {
@@ -660,7 +660,7 @@ h1 {
 
 .treatment_section .box .detail-box a {
   text-transform: uppercase;
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .treatment_section .box .detail-box a:hover {
@@ -668,7 +668,7 @@ h1 {
 }
 
 .team_section {
-  background-color: #007FFF;
+  background-color: #00AEEF;
 }
 
 .team_section .heading_container {
@@ -720,7 +720,7 @@ h1 {
 }
 
 .team_section .box .detail-box h6 {
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .team_section .box .detail-box .social_box {
@@ -819,7 +819,7 @@ h1 {
 
 .client_section .box .client_info .client_name h5 {
   font-weight: 600;
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .client_section .box .client_info .client_name h6 {
@@ -841,7 +841,7 @@ h1 {
 .client_section .carousel-control-next {
   width: 45px;
   height: 125px;
-  background-color: #007FFF;
+  background-color: #00AEEF;
   opacity: 1;
   font-size: 28px;
   font-weight: bold;
@@ -876,7 +876,7 @@ h1 {
 
 .contact_section .form_container input {
   width: 100%;
-  border: 1px solid #007FFF;
+  border: 1px solid #00AEEF;
   height: 50px;
   margin-bottom: 25px;
   padding-left: 15px;
@@ -886,19 +886,19 @@ h1 {
 }
 
 .contact_section .form_container input::-webkit-input-placeholder {
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .contact_section .form_container input:-ms-input-placeholder {
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .contact_section .form_container input::-ms-input-placeholder {
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .contact_section .form_container input::placeholder {
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .contact_section .form_container input.message-box {
@@ -910,14 +910,14 @@ h1 {
   text-transform: uppercase;
   display: inline-block;
   padding: 15px 65px;
-  background-color: #007FFF;
+  background-color: #00AEEF;
   color: #ffffff;
   border-radius: 0;
   font-weight: bold;
 }
 
 .contact_section .form_container button:hover {
-  background-color: #007FFF;
+  background-color: #00AEEF;
 }
 
 .contact_section .img-box img {
@@ -997,7 +997,7 @@ h1 {
 
 .info_section .info_form form button {
   background-color: transparent;
-  color: #007FFF;
+  color: #00AEEF;
   margin-top: 15px;
   text-transform: uppercase;
   font-size: 15px;
@@ -1021,7 +1021,7 @@ h1 {
   left: 0;
   width: 15px;
   height: 15px;
-  background-color: #007FFF;
+  background-color: #00AEEF;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
@@ -1045,7 +1045,7 @@ h1 {
 }
 
 .info_section .info_links .info_links_menu a:hover, .info_section .info_links .info_links_menu a.active {
-  color: #007FFF;
+  color: #00AEEF;
 }
 
 .info_section .info_post .post_box {
