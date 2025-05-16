@@ -4,7 +4,7 @@ import path from 'path';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/', // Changed from './' to '/'
+  base: '/',  // Changed from './' to '/'
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src')
@@ -12,6 +12,7 @@ export default defineConfig({
   },
   build: {
     outDir: 'dist',
+    emptyOutDir: true,  // Add this to clear the dist folder before build
     sourcemap: true,
     rollupOptions: {
       output: {
